@@ -1,0 +1,3462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>halma</class>
+ <widget class="QDialog" name="halma">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>601</width>
+    <height>517</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QLabel" name="label_pic">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>60</y>
+     <width>471</width>
+     <height>441</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>TextLabel</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="PB_118">
+   <property name="geometry">
+    <rect>
+     <x>214</x>
+     <y>446</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: red;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_119">
+   <property name="geometry">
+    <rect>
+     <x>243</x>
+     <y>446</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: red;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_120">
+   <property name="geometry">
+    <rect>
+     <x>228</x>
+     <y>471</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: red;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_117">
+   <property name="geometry">
+    <rect>
+     <x>257</x>
+     <y>421</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: red;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_116">
+   <property name="geometry">
+    <rect>
+     <x>228</x>
+     <y>422</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: red;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_115">
+   <property name="geometry">
+    <rect>
+     <x>200</x>
+     <y>422</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: red;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_113">
+   <property name="geometry">
+    <rect>
+     <x>243</x>
+     <y>397</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: red;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_112">
+   <property name="geometry">
+    <rect>
+     <x>214</x>
+     <y>397</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: red;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_114">
+   <property name="geometry">
+    <rect>
+     <x>271</x>
+     <y>397</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: red;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_111">
+   <property name="geometry">
+    <rect>
+     <x>186</x>
+     <y>397</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: red;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QLabel" name="label_pic_2">
+   <property name="geometry">
+    <rect>
+     <x>390</x>
+     <y>430</y>
+     <width>321</width>
+     <height>381</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>TextLabel</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_pic_4">
+   <property name="geometry">
+    <rect>
+     <x>590</x>
+     <y>680</y>
+     <width>321</width>
+     <height>381</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>TextLabel</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="PB_78">
+   <property name="geometry">
+    <rect>
+     <x>171</x>
+     <y>322</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_79">
+   <property name="geometry">
+    <rect>
+     <x>199</x>
+     <y>322</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_81">
+   <property name="geometry">
+    <rect>
+     <x>257</x>
+     <y>322</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_80">
+   <property name="geometry">
+    <rect>
+     <x>228</x>
+     <y>322</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_103">
+   <property name="geometry">
+    <rect>
+     <x>200</x>
+     <y>372</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_105">
+   <property name="geometry">
+    <rect>
+     <x>257</x>
+     <y>372</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_104">
+   <property name="geometry">
+    <rect>
+     <x>228</x>
+     <y>372</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_106">
+   <property name="geometry">
+    <rect>
+     <x>285</x>
+     <y>372</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_102">
+   <property name="geometry">
+    <rect>
+     <x>171</x>
+     <y>372</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_100">
+   <property name="geometry">
+    <rect>
+     <x>114</x>
+     <y>372</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: purple;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_101">
+   <property name="geometry">
+    <rect>
+     <x>143</x>
+     <y>372</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: purple;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_99">
+   <property name="geometry">
+    <rect>
+     <x>85</x>
+     <y>372</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: purple;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_98">
+   <property name="geometry">
+    <rect>
+     <x>57</x>
+     <y>372</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: purple;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_109">
+   <property name="geometry">
+    <rect>
+     <x>372</x>
+     <y>372</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: orange;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_110">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>372</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: orange;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_108">
+   <property name="geometry">
+    <rect>
+     <x>343</x>
+     <y>372</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: orange;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_107">
+   <property name="geometry">
+    <rect>
+     <x>314</x>
+     <y>372</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: orange;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_84">
+   <property name="geometry">
+    <rect>
+     <x>343</x>
+     <y>322</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: orange;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_85">
+   <property name="geometry">
+    <rect>
+     <x>371</x>
+     <y>322</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: orange;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_82">
+   <property name="geometry">
+    <rect>
+     <x>286</x>
+     <y>322</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_83">
+   <property name="geometry">
+    <rect>
+     <x>314</x>
+     <y>322</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_76">
+   <property name="geometry">
+    <rect>
+     <x>114</x>
+     <y>322</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: purple;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_77">
+   <property name="geometry">
+    <rect>
+     <x>142</x>
+     <y>322</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_75">
+   <property name="geometry">
+    <rect>
+     <x>85</x>
+     <y>322</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: purple;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_97">
+   <property name="geometry">
+    <rect>
+     <x>386</x>
+     <y>347</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: orange;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_96">
+   <property name="geometry">
+    <rect>
+     <x>357</x>
+     <y>347</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: orange;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_92">
+   <property name="geometry">
+    <rect>
+     <x>243</x>
+     <y>347</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_88">
+   <property name="geometry">
+    <rect>
+     <x>128</x>
+     <y>347</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: purple;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_93">
+   <property name="geometry">
+    <rect>
+     <x>271</x>
+     <y>347</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_95">
+   <property name="geometry">
+    <rect>
+     <x>329</x>
+     <y>347</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: orange;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_94">
+   <property name="geometry">
+    <rect>
+     <x>300</x>
+     <y>347</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_86">
+   <property name="geometry">
+    <rect>
+     <x>71</x>
+     <y>347</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: purple;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_87">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>347</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: purple;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_91">
+   <property name="geometry">
+    <rect>
+     <x>214</x>
+     <y>347</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_90">
+   <property name="geometry">
+    <rect>
+     <x>186</x>
+     <y>347</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_89">
+   <property name="geometry">
+    <rect>
+     <x>157</x>
+     <y>347</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_73">
+   <property name="geometry">
+    <rect>
+     <x>328</x>
+     <y>298</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_66">
+   <property name="geometry">
+    <rect>
+     <x>128</x>
+     <y>298</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_70">
+   <property name="geometry">
+    <rect>
+     <x>242</x>
+     <y>298</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_69">
+   <property name="geometry">
+    <rect>
+     <x>214</x>
+     <y>298</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_67">
+   <property name="geometry">
+    <rect>
+     <x>157</x>
+     <y>298</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_65">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>298</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: purple;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_74">
+   <property name="geometry">
+    <rect>
+     <x>357</x>
+     <y>298</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: orange;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_68">
+   <property name="geometry">
+    <rect>
+     <x>185</x>
+     <y>298</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_71">
+   <property name="geometry">
+    <rect>
+     <x>271</x>
+     <y>298</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_72">
+   <property name="geometry">
+    <rect>
+     <x>300</x>
+     <y>298</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_59">
+   <property name="geometry">
+    <rect>
+     <x>200</x>
+     <y>273</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_64">
+   <property name="geometry">
+    <rect>
+     <x>343</x>
+     <y>273</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_60">
+   <property name="geometry">
+    <rect>
+     <x>228</x>
+     <y>273</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_63">
+   <property name="geometry">
+    <rect>
+     <x>314</x>
+     <y>273</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_61">
+   <property name="geometry">
+    <rect>
+     <x>257</x>
+     <y>273</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_58">
+   <property name="geometry">
+    <rect>
+     <x>171</x>
+     <y>273</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_57">
+   <property name="geometry">
+    <rect>
+     <x>143</x>
+     <y>273</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_56">
+   <property name="geometry">
+    <rect>
+     <x>114</x>
+     <y>273</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_62">
+   <property name="geometry">
+    <rect>
+     <x>286</x>
+     <y>273</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_50">
+   <property name="geometry">
+    <rect>
+     <x>214</x>
+     <y>248</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_55">
+   <property name="geometry">
+    <rect>
+     <x>357</x>
+     <y>248</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: orange;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_51">
+   <property name="geometry">
+    <rect>
+     <x>242</x>
+     <y>248</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_54">
+   <property name="geometry">
+    <rect>
+     <x>328</x>
+     <y>248</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_52">
+   <property name="geometry">
+    <rect>
+     <x>271</x>
+     <y>248</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_49">
+   <property name="geometry">
+    <rect>
+     <x>185</x>
+     <y>248</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_48">
+   <property name="geometry">
+    <rect>
+     <x>157</x>
+     <y>248</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_47">
+   <property name="geometry">
+    <rect>
+     <x>128</x>
+     <y>248</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_53">
+   <property name="geometry">
+    <rect>
+     <x>300</x>
+     <y>248</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_46">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>248</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: turquoise;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_44">
+   <property name="geometry">
+    <rect>
+     <x>343</x>
+     <y>223</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: orange;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_37">
+   <property name="geometry">
+    <rect>
+     <x>142</x>
+     <y>223</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_41">
+   <property name="geometry">
+    <rect>
+     <x>257</x>
+     <y>223</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_40">
+   <property name="geometry">
+    <rect>
+     <x>228</x>
+     <y>223</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_38">
+   <property name="geometry">
+    <rect>
+     <x>171</x>
+     <y>223</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_36">
+   <property name="geometry">
+    <rect>
+     <x>114</x>
+     <y>223</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: turquoise;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_45">
+   <property name="geometry">
+    <rect>
+     <x>371</x>
+     <y>223</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: orange;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_35">
+   <property name="geometry">
+    <rect>
+     <x>85</x>
+     <y>223</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: turquoise;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_39">
+   <property name="geometry">
+    <rect>
+     <x>199</x>
+     <y>223</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_42">
+   <property name="geometry">
+    <rect>
+     <x>286</x>
+     <y>223</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_43">
+   <property name="geometry">
+    <rect>
+     <x>314</x>
+     <y>223</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_32">
+   <property name="geometry">
+    <rect>
+     <x>329</x>
+     <y>199</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: orange;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_27">
+   <property name="geometry">
+    <rect>
+     <x>186</x>
+     <y>199</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_30">
+   <property name="geometry">
+    <rect>
+     <x>271</x>
+     <y>199</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_28">
+   <property name="geometry">
+    <rect>
+     <x>214</x>
+     <y>199</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_26">
+   <property name="geometry">
+    <rect>
+     <x>157</x>
+     <y>199</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_25">
+   <property name="geometry">
+    <rect>
+     <x>128</x>
+     <y>199</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: turquoise;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_29">
+   <property name="geometry">
+    <rect>
+     <x>243</x>
+     <y>199</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_23">
+   <property name="geometry">
+    <rect>
+     <x>71</x>
+     <y>199</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: turquoise;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_24">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>199</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: turquoise;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_34">
+   <property name="geometry">
+    <rect>
+     <x>386</x>
+     <y>199</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: orange;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_33">
+   <property name="geometry">
+    <rect>
+     <x>357</x>
+     <y>199</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: orange;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_31">
+   <property name="geometry">
+    <rect>
+     <x>300</x>
+     <y>199</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_22">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>174</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: orange;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_21">
+   <property name="geometry">
+    <rect>
+     <x>372</x>
+     <y>174</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: orange;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_17">
+   <property name="geometry">
+    <rect>
+     <x>257</x>
+     <y>174</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_13">
+   <property name="geometry">
+    <rect>
+     <x>143</x>
+     <y>174</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: turquoise;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_18">
+   <property name="geometry">
+    <rect>
+     <x>285</x>
+     <y>174</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_20">
+   <property name="geometry">
+    <rect>
+     <x>343</x>
+     <y>174</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: orange;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_19">
+   <property name="geometry">
+    <rect>
+     <x>314</x>
+     <y>174</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: orange;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_10">
+   <property name="geometry">
+    <rect>
+     <x>57</x>
+     <y>174</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: turquoise;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_11">
+   <property name="geometry">
+    <rect>
+     <x>85</x>
+     <y>174</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: turquoise;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_12">
+   <property name="geometry">
+    <rect>
+     <x>114</x>
+     <y>174</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: turquoise;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_16">
+   <property name="geometry">
+    <rect>
+     <x>228</x>
+     <y>174</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_15">
+   <property name="geometry">
+    <rect>
+     <x>200</x>
+     <y>174</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_14">
+   <property name="geometry">
+    <rect>
+     <x>171</x>
+     <y>174</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: white;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_6">
+   <property name="geometry">
+    <rect>
+     <x>186</x>
+     <y>149</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: lightgreen;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_9">
+   <property name="geometry">
+    <rect>
+     <x>271</x>
+     <y>149</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: lightgreen;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_7">
+   <property name="geometry">
+    <rect>
+     <x>214</x>
+     <y>149</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: lightgreen;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_8">
+   <property name="geometry">
+    <rect>
+     <x>243</x>
+     <y>149</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color:lightgreen;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_3">
+   <property name="geometry">
+    <rect>
+     <x>200</x>
+     <y>125</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: lightgreen;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_5">
+   <property name="geometry">
+    <rect>
+     <x>257</x>
+     <y>124</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: lightgreen;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_4">
+   <property name="geometry">
+    <rect>
+     <x>228</x>
+     <y>125</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: lightgreen;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_2">
+   <property name="geometry">
+    <rect>
+     <x>243</x>
+     <y>100</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: lightgreen;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_1">
+   <property name="geometry">
+    <rect>
+     <x>214</x>
+     <y>100</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: lightgreen;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="PB_0">
+   <property name="geometry">
+    <rect>
+     <x>228</x>
+     <y>75</y>
+     <width>14</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: white;
+ border-style: solid;
+ border-width:1px;
+ border-radius:6px;
+ border-color: lightgreen;
+ max-width:12px;
+ max-height:12px;
+ min-width:12px;
+ min-height:12px;
+background-color: rgba(255, 255, 255, 0); </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup</string>
+   </attribute>
+  </widget>
+  <widget class="QPushButton" name="Confirm">
+   <property name="geometry">
+    <rect>
+     <x>470</x>
+     <y>80</y>
+     <width>88</width>
+     <height>34</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Confirm</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+ <buttongroups>
+  <buttongroup name="buttonGroup"/>
+ </buttongroups>
+</ui>

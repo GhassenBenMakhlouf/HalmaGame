@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>SecDialog</class>
+ <widget class="QDialog" name="SecDialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>667</width>
+    <height>499</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>90</x>
+     <y>30</y>
+     <width>271</width>
+     <height>371</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>20</y>
+     <width>621</width>
+     <height>491</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>The Objective
+The aim of the game is to be the first to player to move all pieces across
+ the board and into opposing corner, within area delineated by the heavy line.
+Should one or more of the squares in the target area contain a piece belonging
+ to another player, this does not prevent a player from winning.  In this case
+, the game is won when all the available points within the area are occupied.
+
+ 
+
+The Play
+A toss of a coin decides who starts.  Players take turns to move a single piece
+ of their own colour. The piece may either be simply moved into an adjacent s
+quare OR it may make one or more hops over other pieces.  Where a hopping move 
+is made, each hop must be over an adjacent piece and into the vacant square 
+directly beyond it.  A hop may be over any coloured piece including the player's
+ own and can proceed in any one of the eight directions.  After each hop, 
+the player may either finish or, if possible and desired, continue by hopping 
+over another piece.  It does occasionally happen that a player is able to move 
+a piece all the way from the starting corner across the board and into the opposite
+ corner in one turn! 
+
+Pieces are never removed from the board.  It is permitted to move a piece into any
+ square on the board including squares in areas belonging to other players but, 
+once a piece has reached the opposite area, it may not be moved out of the area 
+but it may move within the area.</string>
+   </property>
+  </widget>
+  <zorder>label_2</zorder>
+  <zorder>label</zorder>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
