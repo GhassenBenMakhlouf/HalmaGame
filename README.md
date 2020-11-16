@@ -43,10 +43,12 @@
 <p align="center">
   <img src="./images/Uml_logic.png" alt="drawing" width="70%"/>
 </p>
+
 #### Network class:
 <p align="center">
   <img src="./images/Uml_network.png" alt="drawing" width="30%"/>
 </p>
+
 #### GUI classes:
 <p align="center">
   <img src="./images/Uml_gui.png" alt="drawing" width="80%"/>
