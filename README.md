@@ -13,16 +13,16 @@
 * Logik
 
 ## Main Functions:
-#### GUI:
+### GUI:
 * Create login page
 * Halma playing field
 * Managment window
 * Show movements of stones
-#### Logic:
+### Logic:
 * Save all positions and corresponding players
 * Checking the local moves and the opponent's moves
 * Review of the winner
-#### Network:
+### Network:
 * Server
 * Client
 * Communication between server and client
@@ -33,7 +33,7 @@
 * between Logic und Network
 * between GUI und Network
 
-## other features:
+## Other features:
 * Chat function
 * cancel move button
 * show current player
