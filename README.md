@@ -1,19 +1,16 @@
 # Halma Game
 
 <p align="center">
-  <img src="./images/gui.png" alt="drawing" width="99%"/>
+  <img src="./images/gui.png" alt="drawing" width="50%"/>
 </p>
 
+<img align="right" src="./images/diagram.png" alt="drawing" width="50%"/>
 
 ## Main Classes:
 * Supervisor
 * GUI classes
 * Network
 * Logik
-
-<p align="center">
-  <img src="./images/diagram.png" alt="drawing" width="99%"/>
-</p>
 
 ## Main Functions:
 #### GUI:
